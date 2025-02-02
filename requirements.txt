@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+db-sqlite3
+pandas
+numpy
+pytest
+pytest-asyncio
+sqlalchemy
+httpx
+prisma
+psycopg2
